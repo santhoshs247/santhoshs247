@@ -61,7 +61,7 @@
 
 <p align="center">
   💬 <b>Let's Discuss:</b> Java, C, JavaScript, React, flask, System Architecture &amp; Git Workflows.<br />
-  ⚡ <b>Philosophy:</b> <i>"I love turning random late-night thoughts into fully deployed production software!"</i>
+  ⚡ <b>Philosophy:</b> <i>"I love turning random late-night thoughts into fully usefull products."</i>
 </p>
 
 <!-- <table width="100%" border="0" align="center">
