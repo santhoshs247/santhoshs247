@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BuN2MyMHFxNGl3Y3Z1bWFmYXJxbHB6bTJmemR4N3Y3ajNtcHlsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+  <img src="https://camo.githubusercontent.com/a5508bd0a35e8e27c53eb55abbe1e5d27adcddc905ce35d00c73c70cce42b3d0/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578643342754e324d794d4846784e476c3359335a316257466d59584a786248423662544a6d656d52344e335933616a4e7463486c7361435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f663369774a464f564f777579374b364646772f67697068792e676966" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
 </p>
 
 <p align="center">
@@ -94,16 +94,16 @@
 <table width="100%" border="0" align="center">
 <tr>
 <td align="center" style="padding: 22px;">
-  <h3>🔬 OpenCore Mastitis Monitor</h3>
-  <p><i>A smart IoT &amp; web-enabled dairy health monitoring system designed for early anomaly detection and real-time livestock welfare tracking.</i></p>
+  <h3>🎓 Student Performance Analyzer &amp; Predictor</h3>
+  <p><i>An end-to-end ML-powered academic analytics platform designed to evaluate socio-demographic drivers, predict student outcomes, and deliver personalized study interventions.</i></p>
   <br />
   <p>
-    <a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
+    <a href="https://github.com/rahulkrishna-hub/Student-Performance-Analyzer" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Launch%20Dashboard-4F46E5?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/santhoshs247" target="_blank">
-      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    <a href="https://github.com/rahulkrishna-hub/Student-Performance-Analyzer" target="_blank">
+      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Repository-111111?style=for-the-badge&logo=github&logoColor=6366F1&labelColor=0a0a0a" alt="Source Code" />
     </a>
   </p>
 </td>
