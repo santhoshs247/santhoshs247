@@ -29,10 +29,16 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santhoshs247&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=santhoshs247&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CGPA-7.88%20%2F%2010-6BCB77?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Odoo-Certified-4D96FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-FFD93D?style=for-the-badge&labelColor=333"/>
 </p>
+
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=santhoshs247&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+</p> -->
 
 ---
 
@@ -170,8 +176,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" alt="Scikit-Learn" />
   &nbsp;
   <img src="https://img.shields.io/badge/Seaborn-0a0a0a?style=for-the-badge&logo=python&logoColor=EF4444" alt="Seaborn" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Selenium-0a0a0a?style=for-the-badge&logo=selenium&logoColor=EF4444" alt="Selenium" />
 </p>
 
 ---
