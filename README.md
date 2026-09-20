@@ -98,11 +98,11 @@
   <p><i>An end-to-end ML-powered academic analytics platform designed to evaluate socio-demographic drivers, predict student outcomes, and deliver personalized study interventions.</i></p>
   <br />
   <p>
-    <a href="https://github.com/rahulkrishna-hub/Student-Performance-Analyzer" target="_blank">
+    <a href="https://elaborate-dusk-e945c9.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Launch%20Dashboard-4F46E5?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/rahulkrishna-hub/Student-Performance-Analyzer" target="_blank">
+    <a href="https://github.com/santhoshs247/Student-Performance-Analyzer.git" target="_blank">
       <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Repository-111111?style=for-the-badge&logo=github&logoColor=6366F1&labelColor=0a0a0a" alt="Source Code" />
     </a>
   </p>
