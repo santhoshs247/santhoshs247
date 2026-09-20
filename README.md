@@ -48,7 +48,7 @@
 
 <p align="center">
   Hey! I'm <b>Santhosh Perumal</b>, a passionate <b>B.Sc. Computer Technology student &amp; developer</b> based in India.<br />
-  I focus on full-stack and MERN development, data analysis, documentation, and building practical software solutions. I enjoy working with React, Node.js, Express, Python, databases, Power BI, and machine learning.
+  I focus on full-stack and MERN development, data analysis, documentation, and building practical software solutions. I enjoy working with React, Node.js, Express, Python, databases, Power BI, and AI and ML etc.
 </p>
 
 <p align="center">
@@ -60,11 +60,11 @@
 </p>
 
 <p align="center">
-  💬 <b>Let's Discuss:</b> Java, C++, JavaScript, React, Spring Boot, System Architecture &amp; Git Workflows.<br />
+  💬 <b>Let's Discuss:</b> Java, C, JavaScript, React, flask, System Architecture &amp; Git Workflows.<br />
   ⚡ <b>Philosophy:</b> <i>"I love turning random late-night thoughts into fully deployed production software!"</i>
 </p>
 
-<table width="100%" border="0" align="center">
+<!-- <table width="100%" border="0" align="center">
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🔭 Flagship Project</h4>
@@ -85,7 +85,7 @@
   <p><b>AI, Web &amp; IoT</b><br /><sub>Open to exciting new projects</sub></p>
 </td>
 </tr>
-</table>
+</table> -->
 
 ---
 
