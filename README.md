@@ -124,7 +124,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/santhosh24bir047/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/santhoshs247?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+    <img src="https://leetcard.jacoblin.cool/santhoshperumal?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
   </a>
 </p>
 
@@ -152,7 +152,7 @@
 <p align="center"><b>Frontend &amp; Mobile Development</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,flutter,androidstudio,tailwind,bootstrap&theme=dark" width="100%" style="max-width: 380px;" alt="Frontend and Mobile" />
+    <img src="https://skillicons.dev/icons?i=react,angular,flask,androidstudio,tailwind,bootstrap&theme=dark" width="100%" style="max-width: 380px;" alt="Frontend and Mobile" />
   </a>
 </p>
 
