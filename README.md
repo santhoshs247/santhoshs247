@@ -78,13 +78,13 @@
 </td>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🌱 Active Deep Dives</h4>
-  <p><b>DSA &amp; Spring Boot</b><br /><sub>React Ecosystem &amp; System Design</sub></p>
+  <p><b>AI & ML</b><br /><sub>Deep Learning, Network Security & FastAPI</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>📱 Data &amp; Tech Projects</h4>
-  <p><a href="https://www.instagram.com/techwin.in/" target="_blank"><b>@techwin.in</b></a><br /><sub>Coding Guides &amp; Insights</sub></p>
+  <p><a href="https://github.com/santhoshs247" target="_blank"><b>@Santhosh</b></a><br /><sub>Coding Guides &amp; Insights</sub></p>
 </td>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🤝 Collaboration</h4>
