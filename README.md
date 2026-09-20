@@ -153,7 +153,7 @@
 <p align="center"><b>Backend, Cloud &amp; Databases</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,mysql,firebase,aws&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,mysql,firebase,supabase&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
   </a>
 </p>
 
