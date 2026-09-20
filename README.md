@@ -213,7 +213,7 @@
 <table border="0" align="center">
 <tr>
 <td align="center" width="220" style="padding: 16px;">
-  <a href="https://www.linkedin.com/in/deepakamalwinstar/" target="_blank">
+  <a href="https://www.linkedin.com/in/santhosh-perumal-1601aa3a2/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
     <br /><br />
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
@@ -222,10 +222,10 @@
   <sub><b>Professional Network</b></sub>
 </td>
 <td align="center" width="220" style="padding: 16px;">
-  <a href="https://www.instagram.com/techwin.in/" target="_blank">
+  <a href="https://www.instagram.com/santhosh247.k?stkn=dnhhYzQ0aDltcXh2" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />
     <br /><br />
-    <img src="https://img.shields.io/badge/Instagram-@techwin.in-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@Santhosh-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
   </a>
   <br />
   <sub><b>Articles &amp; Tech Guides</b></sub>
