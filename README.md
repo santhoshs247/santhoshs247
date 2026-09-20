@@ -117,17 +117,17 @@
 <p align="center"><i>Live real-time tracker of coding challenges &amp; algorithmic problem-solving milestones.</i></p>
 
 <p align="center">
-  <a href="https://leetcode.com/santhoshs247/" target="_blank">
+  <a href="https://leetcode.com/u/santhosh24bir047/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/santhoshs247?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/santhoshs247/" target="_blank">
+  <a href="https://leetcode.com/u/santhosh24bir047/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/santhoshs247/" target="_blank">
+  <a href="https://leetcode.com/progress/" target="_blank">
     <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
   </a>
 </p>
