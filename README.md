@@ -70,11 +70,11 @@
   ⚡ <b>Philosophy:</b> <i>"I love turning random late-night thoughts into fully usefull products."</i>
 </p>
 
-<!-- <table width="100%" border="0" align="center">
+<table width="100%" border="0" align="center">
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>🔭 Flagship Project</h4>
-  <p><a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank"><b>OpenCore Monitor</b></a><br /><sub>Dairy IoT &amp; Anomaly Detection</sub></p>
+  <h4>🔭 RAG Project</h4>
+  <p><a href="https://elaborate-dusk-e945c9.netlify.app/" target="_blank"><b> Student Performance Analyzer & Predictor</b></a><br /><sub>AI-Powered Academic Performance Prediction &amp; Analytics Dashboard</sub></p>
 </td>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🌱 Active Deep Dives</h4>
@@ -91,7 +91,7 @@
   <p><b>AI, Web &amp; IoT</b><br /><sub>Open to exciting new projects</sub></p>
 </td>
 </tr>
-</table> -->
+</table>
 
 ---
 
@@ -179,6 +179,7 @@
 </p>
 
 ---
+
 
 <h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
 
