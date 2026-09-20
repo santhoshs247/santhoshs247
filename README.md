@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1GY9lUeE9zneL9efZNbQOiWyH55UYrBXz/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/drive/u/0/folders/17p8B3N-M16_Q_t4PirI1lZkmpyY8cDhh" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
   </a>
   &nbsp;
