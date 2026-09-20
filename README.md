@@ -43,12 +43,12 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BuN2MyMHFxNGl3Y3Z1bWFmYXJxbHB6bTJmemR4N3Y3ajNtcHlsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
 </p>
 
 <p align="center">
   Hey! I'm <b>Santhosh Perumal</b>, a passionate <b>B.Sc. Computer Technology student &amp; developer</b> based in India.<br />
-  I focus on full-stack and MERN development, data analysis, documentation, and building practical software solutions. I enjoy working with React, Node.js, Express, Python, databases, Power BI, and AI and ML etc.
+  I focus on full-stack and MERN development, data analysis, documentation, and building practical software solutions. I enjoy working with React, Node.js, Express, Python, databases, Power BI, AI and ML etc.
 </p>
 
 <p align="center">
