@@ -166,7 +166,7 @@
 <p align="center"><b>AI, Data Science, Hardware &amp; DevOps</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=antigravity,arduino,git,github,postman,linux,figma&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and AI" />
+    <img src="https://skillicons.dev/icons?i=vscode,arduino,git,github,postman,linux,figma&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and AI" />
   </a>
 </p>
 
