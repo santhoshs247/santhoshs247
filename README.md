@@ -28,6 +28,10 @@
   <a href="https://github.com/santhoshs247" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
+  &nbsp;
+  <a href="https://santhosh-perumal-me.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=EF4444&labelColor=0a0a0a" alt="Portfolio" />
+  </a>  
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=santhoshs247&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge"/>
