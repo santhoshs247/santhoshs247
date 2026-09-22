@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  Hey! I'm <b>Santhosh Perumal</b>, a passionate <b>B.Sc. Computer Technology student &amp; developer</b> based in India.<br />
+  Hey! I'm <b>Santhosh Perumal</b>, a passionate <b>B.Sc. Computer Technology student</b> based in India.<br />
   I focus on full-stack and MERN development, data analysis, documentation, and building practical software solutions. I enjoy working with React, Node.js, Express, Python, databases, Power BI, AI and ML etc.
 </p>
 
